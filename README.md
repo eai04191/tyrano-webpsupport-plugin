@@ -1,4 +1,4 @@
-# DO NOT USE IT IN PRODUCTION
+# ⚠DO NOT USE IT IN PRODUCTION
 This is a proof of concept. It has not been fully validated for production use and is not supported.
 
 # tyrano-webpsupport-plugin
