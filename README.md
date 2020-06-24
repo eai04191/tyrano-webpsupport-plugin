@@ -1,3 +1,6 @@
+# DO NOT USE IT IN PRODUCTION
+This is a proof of concept. It has not been fully validated for production use and is not supported.
+
 # tyrano-webpsupport-plugin
 webpをサポートしていない環境(safari)で表示しようとしたときにpngに変換して表示します
 
